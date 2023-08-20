@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_WeatherApp/static/css/main.35255ae3.css",
+    "main.js": "/React_WeatherApp/static/js/main.d7ad8f68.js",
+    "static/js/787.d62d1c65.chunk.js": "/React_WeatherApp/static/js/787.d62d1c65.chunk.js",
+    "static/media/pexels-codioful-(formerly-gradienta)-7134999.jpg": "/React_WeatherApp/static/media/pexels-codioful-(formerly-gradienta)-7134999.c687c1304fc11e124232.jpg",
+    "index.html": "/React_WeatherApp/index.html",
+    "main.35255ae3.css.map": "/React_WeatherApp/static/css/main.35255ae3.css.map",
+    "main.d7ad8f68.js.map": "/React_WeatherApp/static/js/main.d7ad8f68.js.map",
+    "787.d62d1c65.chunk.js.map": "/React_WeatherApp/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35255ae3.css",
+    "static/js/main.d7ad8f68.js"
+  ]
+}
