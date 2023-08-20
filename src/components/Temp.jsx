@@ -22,6 +22,7 @@ const fetchApi= async ()=>{
      <div className="inputData">
      <input type="search"
      className="inputField"
+     placeholder="search a city..."
      onChange={(event)=>{
         setSearch(event.target.value)
      }}
